@@ -1,8 +1,8 @@
 [submodule "server"]
 	path = server
-	url = git@github.com:Soufi-ane/streamcast.git
+  url = https://github.com/Soufi-ane/streamcast.git
 	branch = main
 [submodule "client"]
 	path = client
-	url = git@github.com:Soufi-ane/streamcast_client.git
+  url = https://github.com/Soufi-ane/streamcast_client.git
 	branch = main
